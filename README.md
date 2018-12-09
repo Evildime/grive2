@@ -6,11 +6,11 @@ This container will be build automatically on docker hub.
 # Installation
 
 ```
-docker pull paulwoelfel/grive2
+docker pull evildime/grive2
 ```
 
 # Running
 
 ```
-docker run --rm -it -v $(pwd):/drive paulwoelfel/grive2
+docker run --rm -it -v $(pwd):/drive evildime/grive2
 ```
