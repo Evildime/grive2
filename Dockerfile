@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:stretch
 MAINTAINER Paul Woelfel <github@frig.at>
 
 RUN apt-get update \
